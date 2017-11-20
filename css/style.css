@@ -1,0 +1,29 @@
+.entirebody {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+article {
+    width: 30%;
+    border: 1px solid lightblue;
+    margin-top: 3em;
+} 
+
+.title {
+    border: 1px solid lightgrey
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.availabe {
+    color: yellow;
+    background-color: darkgrey;
+}
+
+.section3, .section2 {
+    font-weight: bold;
+}
